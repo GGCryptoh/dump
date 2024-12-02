@@ -1,0 +1,122 @@
+﻿"Title","Category","SubCategory","Prompt","Status","Author"
+"Unpacks RSM diligence reports for Infrastructure ideas for a target operating model.","Technology","Architecture","You will ask for documents to be uploaded and then analyze it. You will then summarize the business under the title ""Transaction Summary"". Followed by answering each question below if possible. Don't make up answers.
+
+When you answer the below questions, provide the title of the questions first and then summarize. If you cannot summarize, state ""Not enough information to support a thesis""
+
+General Company Information
+1. What are the key business processes and how do they rely on IT infrastructure?
+2. What are the critical business applications in use?
+3. Who are the key stakeholders and decision-makers in the IT department?
+
+Infrastructure Overview
+4. What is the current state of the IT infrastructure (servers, network, storage, etc.)?
+5. What are the data center locations and capacities?
+6. What cloud services are currently utilized?
+7. What is the current network topology?
+
+IT Governance and Compliance
+8. What are the IT governance policies and procedures?
+9. Are there any regulatory compliance requirements specific to the industry?
+10. What data privacy laws and regulations must be adhered to?
+
+IT Staff and Resources
+11. How many IT staff members are there, and what are their roles?
+12. What are the key skills and certifications of the IT staff?
+13. Are there any third-party vendors or contractors involved?
+
+Applications and Software
+14. What enterprise applications are in use (ERP, CRM, etc.)?
+15. What custom-developed software is in use?
+16. Are there any software licenses or maintenance contracts?
+
+Data Management
+17. What are the data storage and backup procedures?
+18. How is data integrity and security maintained?
+19. What disaster recovery plans are in place?
+
+Security
+20. What are the current cybersecurity policies and procedures?
+21. What types of security incidents have occurred in the past year?
+22. Are there any security tools or platforms in place?
+
+IT Financials
+23. What is the annual IT budget?
+24. What are the major IT expenditures (hardware, software, services)?
+25. Are there any pending or planned IT investments?
+
+Service Management
+26. What IT service management (ITSM) tools are used?
+27. What are the current SLAs (Service Level Agreements)?
+28. How are incidents and requests tracked and managed?
+
+Infrastructure Dependencies
+29. What are the key dependencies between IT infrastructure and business operations?
+30. Are there any legacy systems that need to be considered?
+31. What interdependencies exist with other business units?
+
+Transition and Integration
+32. What is the proposed timeline for the carve-out?
+33. What are the critical milestones for the IT transition?
+34. How will IT services be maintained during the transition?
+
+Contracts and Agreements
+35. Are there any existing contracts for IT services or products?
+36. What are the terms and conditions of these contracts?
+37. Are there any termination clauses or penalties?
+
+Risk Management
+38. What are the potential risks associated with the carve-out?
+39. How are these risks being mitigated?
+40. What contingency plans are in place?
+
+Technology Roadmap
+41. What is the current IT roadmap for the next 1-3 years?
+42. Are there any major technology initiatives underway?
+43. How does the IT strategy align with business goals?
+
+Innovation and Future Planning
+44. What emerging technologies are being considered?
+45. How does the company plan to innovate in IT?
+46. Are there any plans for digital transformation?
+
+Communication and Change Management
+47. How will changes be communicated to stakeholders?
+48. What training and support will be provided to staff?
+49. How will feedback and concerns be managed during the transition?
+
+Post-Carve-Out Operations
+50. What will the IT operating model look like post-carve-out?
+
+After going through all the questions above, state the following title ""Quick final summary"" and answer these questions as a number, in bullet point form...
+
+Standard users:
+Frontline users:
+Total employees:
+Total Locations:
+Countries:
+Network gear:
+Mailboxes:
+Servers:
+The name of their current MSP or IT:
+
+Once this is all complete, outline a Microsoft/Azure/Infrastructure target operating model in bullet point form.","Active","Hopkins, Geoff"
+"Technology Summary based on Microsoft Solutions","Productivity","Architecture","You are an expert in Azure and Microsoft 365.  I want you to outline a summary and elevator pitch for a topic. What are the CTA's?  Topic is: ","Active","Hopkins, Geoff"
+"Compelling social media post","Technology","Email","Write a compelling LinkedIn social post, that drives engagement. First ask me 3 questions. 1) What topic?  2) What do you want to convey? 3) What call to action is there?  Then craft the note with no other explanations or text, just the post.","Active","Hopkins, Geoff"
+"Thank you note for ...","Composing","Email","Write a brief thank you note after asking me 2 questions. 1) Thanking for what?  2) What call to action is there?  Then craft the note only and no extra explanation.","Active","Hopkins, Geoff"
+"Roadmap to Microsoft 365 Zero Trust","Technology","Architecture","Outline a roadmap to implement Zero Trust architecture within a mid-sized enterprise, detailing stages of multi-factor authentication, conditional access policies, and identity protection using Microsoft 365 and Azure platform","Active","Hopkins, Geoff"
+"Summarize visual business data","Sub-function","Insights","Summarize this data into useful nuggets of information and trends or anything useful for a business leader","Active","Hopkins, Geoff"
+"Deep dive ","Productivity","Insights","    - Take on the role of the most qualified expert in the field of my question.
+    - Understand the user's main concerns and clarify unclear parts before offering solutions.
+    - Always check for recent updates online to validate and supplement your answers. Clearly indicate the distinction between your prior knowledge (up to September 2021) and the newly gathered information. Present the combined answer with explicit labels, so I can easily identify which parts are from your training data and which parts come from recent sources.
+    - Avoid assumptions without explanation and offer an honest and unfiltered opinion.
+    - State uncertainties explicitly and suggest follow-up actions.
+    - Conduct thorough research, providing sources where applicable.
+    - For complex or large topics, break them down into small, manageable parts with clear explanations, using headings and paragraphs.
+    - Offer multiple scenarios to broaden perspective.
+    - Where useful, use examples, metaphors, or analogies to clarify concepts.
+    - Present conflicting information with reasoned arguments.
+    - Provide pros and cons for each solution.
+    - When tasked checking or improving text, thoroughly review for spelling, grammar, coherence and overall clarity. Offer multiple rewritten versions in varying styles and tones.
+    - Add three challenging follow-up questions phrased as if asked by the user to deepen my understanding or to spark my curiosity.
+
+","Active","Hopkins, Geoff"
